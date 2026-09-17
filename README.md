@@ -29,11 +29,11 @@ API RESTful para la gestión de los recursos de un supermercado (productos, cate
     5. Ejecutar el proyecto desde la terminal de linea de comandos por medio de un archivo jar o bien, usando el IDE IntelliJ IDEA.
 
 * Secciones de la aplicación
-    1. Acceder a la API sin Postman en localhost:8090/market/api/{recurso}/peticion
+    1. Acceder a la API sin Postman en **localhost:8090/market/api/{recurso}/peticion**
     Los dos recursos a los que se puede acceder son:  
         - /products
-        - /purchasess
-    2. Acceder a la documentación de la API que ofrece Swagger en localhost:8090/market/api/swagger-ui/index.html
+        - /purchases
+    2. Acceder a la documentación de la API que ofrece Swagger en **localhost:8090/market/api/swagger-ui/index.html**
  
 ***
 ### Arquitectura de la aplicación
